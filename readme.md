@@ -1,5 +1,5 @@
 <img align="center" src="projFiles/banner.jpg"  height="10%" width="100%">
-<h1> Hi, I'm Jovanni Sanchez </h1>
+<h1 align="center"> Hi, I'm Jovanni Sanchez </h1>
 
 <table align="center">
 <tr>
