@@ -1,3 +1,4 @@
+<img align="center" src="banner.jpg"  height="100%" width="100%">
 <h1> Hi, I'm Jovanni Sanchez </h1>
 
 <table align="center">
