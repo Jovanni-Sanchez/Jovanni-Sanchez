@@ -13,7 +13,7 @@ I like coding, art, photography, and video games.
 <h3 align=center> I'm a Nobody!!</h3>
     <ul>
 <li> Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/31hnk265gaue64zclw326f2gdjfa">here</a>. Alternatively, you can view what I'm currently listening to on the right side of this table.
-<li> If you use desktop <a href="https://download.scdn.co/SpotifySetup.exe">Spotify</a>, I highly recommend <a href="https://spicetify.app/">Spicetify</a>. It will allow you to have a highly customizable and ad-free <b>(Shh...)</b> Spotify experience. My personal recommendation for themes are: <a href="https://github.com/JulienMaille/spicetify-dynamic-theme">DynamicDefault</a>, <a href="https://github.com/Comfy-Themes/Spicetify">Comfy</a>, and <a href="https://github.com/catppuccin/spicetify">Catppuccin</a>.
+<li> If you use desktop <a href="https://www.spotify.com/de-en/download/other/">Spotify</a>, I highly recommend <a href="https://spicetify.app/">Spicetify</a>. It will allow you to have a highly customizable and ad-free <b>(Shh...)</b> Spotify experience. My personal recommendation for themes are: <a href="https://github.com/JulienMaille/spicetify-dynamic-theme">DynamicDefault</a>, <a href="https://github.com/Comfy-Themes/Spicetify">Comfy</a>, and <a href="https://github.com/catppuccin/spicetify">Catppuccin</a>.
 <li> The books my school are making me read are boring. If you guys <a href="https://old.reddit.com/r/Piracy/wiki/megathread/books">find</a> any good books, please recommend them to me :). 
       </ul>
     </td>
