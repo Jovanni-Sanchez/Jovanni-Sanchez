@@ -1,11 +1,12 @@
 <h1> Hi, I'm Jovanni Sanchez </h1>
 
-<table>
+<table align="center">
 <tr>
   <td width=65%>
 <h3> I'm a Nobody!!</h3>
     <ul>
 <li> 🎵 Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/31hnk265gaue64zclw326f2gdjfa">here</a>.
+<li> 🎵 Alternatively, I have what I'm current Listening to on the right of this table.
       </ul>
     </td>
   <td>
