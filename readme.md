@@ -1,7 +1,11 @@
 <img align="center" src="projFiles/banner.jpg"  height="10%" width="100%">
 <h1 align="center"> Hi, I'm Jovanni Sanchez </h1>
 
-<b>Hi</b>, welcome to my profile. I'm currently a high school junior taking a Computer Science course on C++.
+<p align="center">
+<b>Hi</b>, welcome to my profile. I'm currently a high school junior and learning C++.
+I made this account for my computer science course, but I decide I would personalize it a little.
+I like urbarn exploration, coding, learning, and video games.
+</p>
 
 <table>
 <tr>
