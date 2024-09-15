@@ -4,7 +4,7 @@
 <table align="center">
 <tr>
   <td width=65%>
-<h3> I'm a Nobody!!</h3>
+<h3 align=center> I'm a Nobody!!</h3>
     <ul>
 <li> 🎵 Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/31hnk265gaue64zclw326f2gdjfa">here</a>.
 <li> 🎵 Alternatively, you can view what I'm currently listening to on the right side of this table.
