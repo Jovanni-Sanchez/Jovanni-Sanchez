@@ -1,4 +1,4 @@
-<img align="center" src="projFiles/banner.jpg"  height="10%" width="100%">
+<img align="center" src="projFiles/banner.jpg"  height="5%" width="100%">
 <h1> Hi, I'm Jovanni Sanchez </h1>
 
 <table align="center">
