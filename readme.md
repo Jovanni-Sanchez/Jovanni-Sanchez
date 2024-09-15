@@ -16,7 +16,7 @@ I like coding, learning, and video games, but I especially <b>love</b> customiza
 <li> If you use desktop <a href="https://download.scdn.co/SpotifySetup.exe">Spotify</a>, I highly recommend <a href="https://spicetify.app/">Spicetify</a>. It will allow you to have a highly customizable and ad-free <b>(Shh...)</b> Spotify experience. My personal recommendation for themes are: <a href="https://github.com/JulienMaille/spicetify-dynamic-theme">DynamicDefault</a>, <a href="https://github.com/Comfy-Themes/Spicetify">Comfy</a>, and <a href="https://github.com/catppuccin/spicetify">Catppuccin</a>.
       </ul>
     </td>
-  <td>
+  <td align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&redirect=true)
 
