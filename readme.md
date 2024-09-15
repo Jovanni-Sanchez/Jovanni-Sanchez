@@ -11,7 +11,7 @@
     </td>
   <td>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hnk265gaue64zclw326f2gdjfa&redirect=true)
 
    </td>
 </table>
