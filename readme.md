@@ -1,13 +1,15 @@
 <img align="center" src="projFiles/banner.jpg"  height="10%" width="100%">
 <h1 align="center"> Hi, I'm Jovanni Sanchez </h1>
 
-<table align="center">
+<b>Hi</b>, welcome to my profile. I'm currently a high school junior taking a Computer Science course on C++.
+
+<table>
 <tr>
   <td width=65%>
 <h3 align=center> I'm a Nobody!!</h3>
     <ul>
-<li> 🎵 Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/31hnk265gaue64zclw326f2gdjfa">here</a>.
-<li> 🎵 Alternatively, you can view what I'm currently listening to on the right side of this table.
+<li> Checkout my playlists and what music I listen to <a href="https://open.spotify.com/user/31hnk265gaue64zclw326f2gdjfa">here</a>.
+<li> Alternatively, you can view what I'm currently listening to on the right side of this table.
       </ul>
     </td>
   <td>
