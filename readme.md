@@ -4,9 +4,7 @@
 <p>
 <b>Hi</b>, welcome to my profile. I'm currently a high school junior and learning C++.
 I made this account for my computer science course, but I decide I would personalize it a little.
-I like coding, learning, and video games, but I especially <b>love</b> customization.
-One day, I want to make my own website to sort of blog stuff down like I'm doing on this, maybe even make a portfolio. 
-I'm not sure how I am going to do it, but I'm looking into <a href="https://neocities.org/">Neocities</a>.
+I like coding, learning, and video games.
 </p>
 
 <table>
